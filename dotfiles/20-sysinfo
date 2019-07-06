@@ -27,3 +27,4 @@ echo "\033[1;31mUsage on /........ \033[1;34m" $root_used"/"$root_total "("$root
 echo "\033[1;31mSwap usage........ \033[1;34m" $swap_usage
 echo "\033[1;31mSSH logins........ \033[1;34m" $users "open sessions"
 echo "\033[1;31mProcesses......... \033[1;34m" $processes_total "total," $processes_user "yours"
+echo "\033[37m"
